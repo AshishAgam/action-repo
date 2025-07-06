@@ -1,1 +1,1 @@
-echo "# Action Repo"
+# action-repo
